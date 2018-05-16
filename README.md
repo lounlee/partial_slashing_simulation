@@ -11,3 +11,10 @@ Developed with Python 3.
 
 * Deposits are distributed more evenly(more decentralized) when we have a service that let us know which pool has the lowest risk from the aspect of decentralization.
 * Partial slashing might not enough to induce decentralization.
+
+
+## References
+
+* [Casper EIP](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1011.md)
+* [Casper repository](https://github.com/ethereum/casper)
+* [Github issue of Casper repository about partial slashing](https://github.com/ethereum/casper/issues/76)
