@@ -10,7 +10,7 @@ Developed with Python 3.
 ## Key Takeaways from Simulation Result
 
 * Deposits are distributed more evenly(more decentralized) when we have a service that let us know which pool has the lowest risk from the aspect of decentralization.
-* Partial slashing might not enough to induce decentralization.
+* Partial slashing might not enough to induce decentralization. (see [this](https://ethresear.ch/t/partial-slashing-might-not-enough/2017) for the details)
 
 
 ## References
